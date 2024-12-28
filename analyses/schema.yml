@@ -1,5 +1,5 @@
 
-version: 2
+version: 5
 
 models:
     - name: my_athird_dbt_model
